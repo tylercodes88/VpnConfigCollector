@@ -1,1 +1,1 @@
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@dk.maximum-vpn.com:443?security=reality&encryption=none&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#5🎖@kakajan🛬
+ss://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiIwNzc3YWM0MC0xNWY2LTRkNTctZTRiZS0wOTA1NGI2MDE2M2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuKaoe+4jyBAVmlQVnBuX3YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
