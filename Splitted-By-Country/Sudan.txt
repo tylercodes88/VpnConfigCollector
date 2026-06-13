@@ -1,2 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%40Golestan_VPN%20%F0%9F%A6%81%205trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&host=mitivpn.de.ssl.global.fastly.co.mitivpn.site&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AAEttehadvpn%20%7C%2037
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=/?ed=2053&mode=auto&sni=vi.new-persian-song.ir&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#@NewsDarya
+trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya - ❤️ 🇺🇲⚡
+vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#@NewsDarya
+vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=0&host=netheroijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@NewsDarya
+vless://ac81eae5-3f36-4832-a4e3-9d1d18180c94@ips.it.mobileemdad.top:42538?security=none&encryption=none&host=ips.it.mobileemdad.top&headerType=http&type=tcp#@NewsDarya
+vless://7b795586-7da4-4943-a3e0-99f822b4dd02@cdn-m1.largesite.ir:2095?security=none&allowInsecure=0&encryption=none&type=httpupgrade#@NewsDarya
