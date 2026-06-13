@@ -1,2 +1,2 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2013
-vless://221ce8b4-17ce-4678-8bf2-5e9f1bd7d55c@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=/26849/mehdi#🍒🎀𝑀𝐸𝐻𝒟𝐼🎀🍒
+trojan://telegram-id-privatevpns@18.193.156.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.145.171.206:443?sni=Koma-YT.PAGeS.Dev#%E6%9C%AA%E7%9F%A53
